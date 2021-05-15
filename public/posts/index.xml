@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dominik&#39;s Porfolio</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Dominik&#39;s Porfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 May 2021 20:57:30 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 15 May 2021 20:57:30 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Please This is a test blog post To test various things Whether this framework will work for me to write and maintain my own personal website</description>
+    </item>
+    
+  </channel>
+</rss>
